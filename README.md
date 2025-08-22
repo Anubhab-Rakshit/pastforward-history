@@ -99,7 +99,7 @@ Whether it’s a royal decree, a revolutionary speech, or a snapshot of daily li
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anubhab-Rakshit/pastforward.git
+   git clone https://github.com/Anubhab-Rakshit/pastforward-history.git
    cd pastforward
    ```
 
